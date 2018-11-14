@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Xamarin.ConsumingAPI.Model
+﻿namespace Xamarin.ConsumingAPI.Model
 {
     public class Nave
     {
